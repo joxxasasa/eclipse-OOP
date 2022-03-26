@@ -1,0 +1,3 @@
+Pizza glavno_jelo 1250.00
+Hamburger glavno_jelo 450.00
+Salata predjelo 350.00
